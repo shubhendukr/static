@@ -1,7 +1,7 @@
 # Jenkins Pipeline on AWS
 This repository contains 2 files:
-- index.html, a static web content
-- Jenkinsfile, contains pipleine configurations to build stages on Jenkins
+- *index.html*, a static web content
+- *Jenkinsfile*, contains pipleine configurations to build stages on Jenkins
 
 This repository is a part of **Udacity's Cloud DevOps Nanodegree** project.
 
